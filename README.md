@@ -117,7 +117,7 @@ Install-Module Microsoft.Graph -Scope CurrentUser
 ## Author
 
 **Daniel Tousi**
-Senior Systems Engineer | Azure | Microsoft 365 | Hybrid Infrastructure
+Principal Engineer | Cloud Solution Architect | Azure | Microsoft 365 | Hybrid Infrastructure
 [LinkedIn](https://linkedin.com/in/danieltousi) | [GitHub](https://github.com/danieltousi)
 
 ---
